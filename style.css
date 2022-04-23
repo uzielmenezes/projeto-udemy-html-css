@@ -28,6 +28,7 @@ h4 {
 	width: 85%;
 	box-shadow: .2em .2em #DCDCDC;
 	margin: 0 auto;
+	padding: 1rem;
 	max-width: 80%; 
 	max-height: 80%;
 	min-width: 0;
@@ -51,6 +52,6 @@ footer {
 p {
 	font-family: arial;
 	text-align: justify;
-	padding: 10px;
+	padding: .4rem 2rem;
 	font-size: 1.6rem;
 }
