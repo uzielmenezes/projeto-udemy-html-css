@@ -35,3 +35,11 @@ h1 {
 	font-weight: bold;
 	font-size: 22px; 
 }
+
+footer {
+	font-family: arial;
+	color: #FFFFFF;
+	background-color: #0000CD;
+	text-align: center;
+	padding: 5px 0;
+}
