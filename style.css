@@ -23,4 +23,11 @@ h4 {
 	background-color: #FFFFFF;
 	width: 85%;
 	box-shadow: .2em .2em #DCDCDC;
+	margin: 0 auto;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 22px; 
 }
