@@ -1,3 +1,7 @@
+html {
+	font-size: 62.5%;
+}
+
 body {
 	background-color: #F5F5F5;
 }
@@ -42,4 +46,11 @@ footer {
 	background-color: #0000CD;
 	text-align: center;
 	padding: 5px 0;
+}
+
+p {
+	font-family: arial;
+	text-align: justify;
+	padding: 10px;
+	font-size: 1.6rem;
 }
