@@ -37,16 +37,11 @@ h4 {
 }
 
 h1 {
-	font-weight: bold;
-	font-size: 2rem; 
-}
-
-footer {
 	font-family: arial;
-	color: #FFFFFF;
-	background-color: #0000CD;
+	font-weight: bold;
+	font-size: 2rem;
 	text-align: center;
-	padding: 1rem 0;
+	padding: 1rem; 
 }
 
 p {
@@ -54,4 +49,12 @@ p {
 	text-align: justify;
 	padding: .4rem 2rem;
 	font-size: 1.6rem;
+}
+
+footer, footer p {
+	font-family: arial;
+	color: #FFFFFF;
+	background-color: #0000CD;
+	text-align: center;
+	padding: 1rem 0;
 }
