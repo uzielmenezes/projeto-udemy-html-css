@@ -17,6 +17,16 @@ header {
 	top: 0;
 }
 
+h3 {
+	font-size: 2rem;
+	padding: 1rem;
+}
+
+h4 {
+	font-size: 1rem;
+	padding: 0 0 1rem 1rem;
+}
+
 .buy {
 	position: fixed;
 	top: 6rem;
@@ -28,14 +38,10 @@ header {
 	margin-top: 2.5%;
 }
 
-h3 {
+h5 {
+	font-family: arial;	
+	padding: .1rem 0;
 	font-size: 2rem;
-	padding: 1rem;
-}
-
-h4 {
-	font-size: 1rem;
-	padding: 0 0 1rem 1rem;
 }
 
 .container {
