@@ -46,11 +46,14 @@ h5 {
 
 button {
 	font-family: arial;	
-	padding: .1rem 0;
-	font-size: 2rem;
+	padding: .4rem;
+	font-size: 1.6rem;
 	background-color: rgba(50, 205, 50);
 	color: #FFFFFF;
 	text-transform: uppercase;
+	box-sizing: border-box;
+	border: .3rem solid #000000;
+	border-radius: 1.5rem;
 }
 
 .container {
