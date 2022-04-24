@@ -13,8 +13,13 @@ header {
 	font-family: arial;
 	width: 100%;
 	text-align: center;
+	opacity: 0.5;
 	position: fixed;
 	top: 0;
+}
+
+.buy {
+	
 }
 
 h3 {
