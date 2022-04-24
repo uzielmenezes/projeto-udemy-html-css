@@ -44,6 +44,15 @@ h5 {
 	font-size: 2rem;
 }
 
+button {
+	font-family: arial;	
+	padding: .1rem 0;
+	font-size: 2rem;
+	background-color: rgba(50, 205, 50);
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
 .container {
 	background-color: #FFFFFF;
 	width: 85%;
