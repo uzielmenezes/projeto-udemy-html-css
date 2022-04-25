@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 html {
 	font-size: 62.5%;
 }
@@ -51,7 +55,6 @@ button {
 	background-color: rgba(50, 205, 50);
 	color: #FFFFFF;
 	text-transform: uppercase;
-	box-sizing: border-box;
 	border: .3rem solid rgba(50, 155, 0);
 	border-radius: 1.5rem;
 }
