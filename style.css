@@ -93,8 +93,18 @@ p {
 
 .grid {
 	display: grid;
-	grid-template-columns: 30rem 30rem;
-	grid-gap: 3rem;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: .1rem;
+	max-width: 120rem;
+	margin: 0 auto;
+}
+
+.grid div {
+	background-color: #FFFFFF;
+	font-family: arial;
+	text-align: center;
+	font-size: 1.6rem;
+	padding-top: .2rem;
 }
 
 footer, footer p {
