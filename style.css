@@ -87,6 +87,16 @@ p {
 	font-size: 1.6rem;
 }
 
+#grid-container {
+	background-color: rgba(255, 127, 80);
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 30rem 30rem;
+	grid-gap: 3rem;
+}
+
 footer, footer p {
 	font-family: arial;
 	color: #FFFFFF;
