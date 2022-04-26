@@ -87,6 +87,18 @@ p {
 	font-size: 1.6rem;
 }
 
+#form {
+	background-color: rgba(173, 216, 230);
+}
+
+h2 {
+	font-family: arial;	
+	padding: .1rem 0;
+	font-size: 1.6rem;
+	text-align: center;
+	font-weight: bold;
+}
+
 #grid-container {
 	background-color: rgba(255, 127, 80);
 }
