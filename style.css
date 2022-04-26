@@ -99,6 +99,21 @@ h2 {
 	font-weight: bold;
 }
 
+.form-contact {
+	font-family: arial;
+	font-size: 1.8rem;
+	padding: 1rem;
+	text-align: left;
+	margin-left: 5%;
+	font-weight: bold;
+}
+
+input {
+	font-family: sans-serif;
+	font-size: 1.7rem;
+	padding: .5rem;
+}
+
 .button {
 	text-transform: uppercase;
 }
