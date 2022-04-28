@@ -20,6 +20,14 @@ header {
 	position: fixed;
 	top: 0;
 }
+a {
+	text-decoration: none;
+	transition: all 300ms ease-in-out;
+}
+
+a:hover {
+	background-color: rgba(169, 169, 169);
+}
 
 nav {
 	position: absolute;
